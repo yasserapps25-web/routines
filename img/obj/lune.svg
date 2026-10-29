@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+<defs><clipPath id="m"><circle cx="190" cy="205" r="135"/></clipPath></defs>
+<circle cx="190" cy="205" r="135" fill="#F7DC7A" stroke="#4E6B7A" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="255" cy="172" r="112" fill="#fff" stroke="#4E6B7A" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#m)"/>
+<polygon points="318.0,72.0 323.9,87.9 340.8,88.6 327.5,99.1 332.1,115.4 318.0,106.0 303.9,115.4 308.5,99.1 295.2,88.6 312.1,87.9" fill="#F7DC7A" stroke="#4E6B7A" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></svg>
