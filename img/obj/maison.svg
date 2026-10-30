@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-<rect x="250" y="110" width="34" height="60" fill="#C8907A" stroke="#4E6B7A" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="100" y="190" width="200" height="150" fill="#FBE3C4" stroke="#4E6B7A" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-<polygon points="76,202 200,92 324,202" fill="#F4AA95" stroke="#4E6B7A" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="176" y="252" width="50" height="88" rx="4" fill="#B98F6A" stroke="#4E6B7A" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="214" cy="298" r="5" fill="#F7DC7A"/>
-<rect x="118" y="214" width="46" height="46" fill="#CFE9F7" stroke="#4E6B7A" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<line x1="141" y1="214" x2="141" y2="260" stroke="#4E6B7A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><line x1="118" y1="237" x2="164" y2="237" stroke="#4E6B7A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
-<rect x="238" y="214" width="46" height="46" fill="#CFE9F7" stroke="#4E6B7A" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
-<line x1="261" y1="214" x2="261" y2="260" stroke="#4E6B7A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/><line x1="238" y1="237" x2="284" y2="237" stroke="#4E6B7A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#A0041E" d="M9.344 14.702h-2a.5.5 0 0 1-.5-.5v-7a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5z"/><path fill="#FFE8B6" d="M5 16 18 3l13 13v17H5z"/><path fill="#FFCC4D" d="M18 16h1v16h-1z"/><path fill="#66757F" d="M31 17a.997.997 0 0 1-.707-.293L18 4.414 5.707 16.707a.999.999 0 1 1-1.414-1.414l13-13a.999.999 0 0 1 1.414 0l13 13A.999.999 0 0 1 31 17z"/><path fill="#66757F" d="M18 17a.999.999 0 0 1-.707-1.707l6.5-6.5a.999.999 0 1 1 1.414 1.414l-6.5 6.5A.997.997 0 0 1 18 17z"/><path fill="#C1694F" d="M10 26h4v6h-4z"/><path fill="#55ACEE" d="M10 17h4v4h-4zm12.5 0h4v4h-4zm0 9h4v4h-4z"/><path fill="#5C913B" d="M33.5 33.5A1.5 1.5 0 0 1 32 35H4a1.5 1.5 0 0 1 0-3h28a1.5 1.5 0 0 1 1.5 1.5z"/></svg>

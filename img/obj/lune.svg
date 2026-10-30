@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-<defs><clipPath id="m"><circle cx="190" cy="205" r="135"/></clipPath></defs>
-<circle cx="190" cy="205" r="135" fill="#F7DC7A" stroke="#4E6B7A" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="255" cy="172" r="112" fill="#fff" stroke="#4E6B7A" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#m)"/>
-<polygon points="318.0,72.0 323.9,87.9 340.8,88.6 327.5,99.1 332.1,115.4 318.0,106.0 303.9,115.4 308.5,99.1 295.2,88.6 312.1,87.9" fill="#F7DC7A" stroke="#4E6B7A" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#FFD983" d="M30.312.776C32 19 20 32 .776 30.312c8.199 7.717 21.091 7.588 29.107-.429C37.9 21.867 38.03 8.975 30.312.776z"/><path fill="#FFCC4D" d="M30.705 15.915a1.163 1.163 0 1 0 1.643 1.641 1.163 1.163 0 0 0-1.643-1.641zm-16.022 14.38a1.74 1.74 0 0 0 0 2.465 1.742 1.742 0 1 0 0-2.465zm13.968-2.147a2.904 2.904 0 0 1-4.108 0 2.902 2.902 0 0 1 0-4.107 2.902 2.902 0 0 1 4.108 0 2.902 2.902 0 0 1 0 4.107z"/></svg>
